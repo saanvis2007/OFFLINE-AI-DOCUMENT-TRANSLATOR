@@ -1,1 +1,1 @@
-# AI-Document-Translator
+# OFFLINE-AI-DOCUMENT-TRANSLATER
