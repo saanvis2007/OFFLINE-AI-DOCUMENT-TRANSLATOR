@@ -20,12 +20,9 @@ A Python-based AI application that translates Word, PDF, and Excel documents int
 * PyMuPDF
 
 ## INSTALLATION
-1. Clone the repository:
-   git clone https://github.com/your-username/offline-ai-document-translator.git
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Run the application:
-   python -m streamlit run app.py
+1. Clone the repository: git clone https://github.com/your-username/offline-ai-document-translator.git
+2. Install dependencies: bash pip install -r requirements.txt
+3. Run the application: bash python -m streamlit run app.py
 
 ## USAGE
 * Upload a DOCX, PDF, or XLSX document
@@ -34,5 +31,4 @@ A Python-based AI application that translates Word, PDF, and Excel documents int
 * Download the translated document
 
 ## AUTHOR
-Saanvi 
-B.Tech Student
+Saanvi  - B.Tech Student
